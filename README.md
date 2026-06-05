@@ -1,70 +1,52 @@
-````md
-## 👾 Cybex5 // SYSTEM ONLINE
+## Hi there 👋 I'm Allanie Aloe
 
-> “Build. Break. Secure. Repeat.”
-
----
-
-### 🔐 IDENTITY
-- 👤 Name: Cybex5  
-- 💻 Role: Web Developer | Cybersecurity Enthusiast  
-- 🎨 Side Skill: Graphic Designer  
-- 🧪 Focus: Digital Forensics & Data Recovery  
+💻 Web Developer | 🔐 Cybersecurity Enthusiast | 🎨 Graphic Designer | 🧪 Digital Forensics Learner
 
 ---
 
-### ⚙️ SYSTEM MODULES
-```bash
-> loading skills...
+### 🔭 About Me
 
-[✔] Web Development (HTML | CSS | JavaScript)
-[✔] Backend Basics (Python)
-[✔] Database Systems (MySQL)
-[✔] Linux & Command Line
-[✔] Cybersecurity Fundamentals (Learning Phase)
-[✔] Digital Forensics / Data Recovery (Exploring)
-````
+* 🌱 I’m currently learning cybersecurity, penetration testing, and Linux systems
+* 💻 I build web applications and practical software solutions
+* 🎨 I enjoy graphic design and creating clean visuals
+* 🧪 Interested in digital forensics and data recovery
+* ⚡ I love learning by building real-world projects
 
 ---
 
-### 🌐 ACTIVE PROJECTS
+### 🛠️ Tech Stack
 
-* ⚡ Building web applications & real-world solutions
-* 🔧 Developing tools that solve practical problems
-* 🛡️ Exploring security testing & system analysis
-* 🖥️ Experimenting with forensic recovery techniques
-* 🎯 Designing clean UI & graphics for projects
-
----
-
-### 📡 SYSTEM STATUS
-
-* 🟢 Learning: Active
-* 🟡 Mastery Level: In Progress
-* 🔴 Limits: None
+* 🌐 Web Development: HTML, CSS, JavaScript
+* 🐍 Programming: Python
+* 🗄️ Databases: MySQL
+* 🐧 Linux & command-line tools
 
 ---
 
-### 🧠 TECH STACK
+### 🚀 What I Do
 
-`HTML` `CSS` `JavaScript` `Python` `MySQL` `Linux`
-
----
-
-### 🚀 OBJECTIVE
-
-To become a skilled developer and security researcher, building systems that are both useful and secure.
+* Build responsive and functional web applications
+* Create tools that solve real problems
+* Explore cybersecurity and ethical hacking concepts
+* Work on data recovery and forensic ideas
+* Design visual content and UI ideas
 
 ---
 
-### 📫 CONNECTION
+### 🎯 Goals
 
-GitHub: Cybex5
-Status: Always building… always learning 🔐
+* Become a strong full-stack web developer
+* Grow in cybersecurity and penetration testing
+* Build impactful open-source projects
+* Improve digital forensics and system analysis skills
 
 ---
 
-> END TRANSMISSION
+### 📫 Connect with me
 
-```
-```
+* GitHub: Cybex5
+* Always building, learning, and improving 💻🔐🎨
+
+---
+
+⚡ “Build. Break. Learn. Improve.”
