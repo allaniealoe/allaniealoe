@@ -1,52 +1,108 @@
-## Hi there 👋 I'm Allanie Aloe
+````md
+<!-- CYBEX5 SYSTEM PROFILE -->
 
-💻 Web Developer | 🔐 Cybersecurity Enthusiast | 🎨 Graphic Designer | 🧪 Digital Forensics Learner
+<div align="center">
 
----
+# 👾 Hi there, I'm **Cybex5**
 
-### 🔭 About Me
-
-* 🌱 I’m currently learning cybersecurity, penetration testing, and Linux systems
-* 💻 I build web applications and practical software solutions
-* 🎨 I enjoy graphic design and creating clean visuals
-* 🧪 Interested in digital forensics and data recovery
-* ⚡ I love learning by building real-world projects
+💻 Web Developer | 🔐 Cybersecurity Enthusiast | 🎨 Graphic Designer | 🧪 Digital Forensics Learner  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ SYSTEM STATUS
+```bash
+> booting profile...
+> identity: Cybex5
+> role: Developer / Security Learner
+> status: ACTIVE 🟢
 
-* 🌐 Web Development: HTML, CSS, JavaScript
-* 🐍 Programming: Python
-* 🗄️ Databases: MySQL
-* 🐧 Linux & command-line tools
+loading modules...
 
----
+✔ Web Development initialized
+✔ Cybersecurity module enabled
+✔ Design interface loaded
+✔ Forensics tools learning mode ON
 
-### 🚀 What I Do
-
-* Build responsive and functional web applications
-* Create tools that solve real problems
-* Explore cybersecurity and ethical hacking concepts
-* Work on data recovery and forensic ideas
-* Design visual content and UI ideas
-
----
-
-### 🎯 Goals
-
-* Become a strong full-stack web developer
-* Grow in cybersecurity and penetration testing
-* Build impactful open-source projects
-* Improve digital forensics and system analysis skills
+system ready ✔
+````
 
 ---
 
-### 📫 Connect with me
+</div>
 
-* GitHub: Cybex5
-* Always building, learning, and improving 💻🔐🎨
+## 🧠 ABOUT ME
+
+```yaml
+name: Cybex5
+focus:
+  - Web Development
+  - Cybersecurity
+  - Digital Forensics
+  - Graphic Design
+
+status: learning | building | improving
+```
+
+* 🌱 Learning cybersecurity, penetration testing & Linux systems
+* 💻 Building real-world web applications & software solutions
+* 🎨 Designing clean UI & visual graphics
+* 🧪 Exploring digital forensics & data recovery techniques
+* ⚡ Passionate about building useful and creative tech projects
 
 ---
 
-⚡ “Build. Break. Learn. Improve.”
+## 🛠️ TECH STACK
+
+```txt
+Frontend   → HTML | CSS | JavaScript
+Backend    → Python
+Database   → MySQL
+System     → Linux
+Security   → Ethical hacking (learning)
+```
+
+---
+
+## 🚀 WHAT I DO
+
+```bash
+$ actions --list
+
+[✔] Build responsive web applications
+[✔] Create problem-solving tools
+[✔] Explore cybersecurity concepts
+[✔] Work on forensic & recovery ideas
+[✔] Design UI/graphics systems
+```
+
+---
+
+## 🎯 GOALS
+
+```diff
++ Become a strong full-stack web developer
++ Master cybersecurity & penetration testing
++ Build impactful open-source projects
++ Advance in digital forensics & analysis
+```
+
+---
+
+## 📫 CONNECT
+
+```bash
+GitHub: Cybex5
+Status: Always building... always learning 🔐
+```
+
+---
+
+## ⚡ FINAL MESSAGE
+
+```bash
+> Build. Break. Learn. Improve.
+> SYSTEM NEVER STOPS ⚡
+```
+
+</div>
+```
