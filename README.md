@@ -1,70 +1,52 @@
-````md
-<!-- CYBEX5 PROFILE -->
+## Hi there 👋 I'm Cybex5
 
-<div align="center">
-
-# 👾 Cybex5
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Web+Developer;Cybersecurity+Enthusiast;Linux+Explorer;Digital+Forensics+Learner" />
+💻 Web Developer | 🔐 Cybersecurity Enthusiast | 🎨 Graphic Designer | 🧪 Digital Forensics Learner
 
 ---
 
-</div>
+### 🔭 About Me
 
-## ⚡ SYSTEM OVERVIEW
-
-```bash
-> identity: Cybex5
-> status: ONLINE 🟢
-> role: Developer | Security Learner
-````
+* 🌱 I’m currently learning cybersecurity, penetration testing, and Linux systems
+* 💻 I build web applications and practical software solutions
+* 🎨 I enjoy graphic design and creating clean visuals
+* 🧪 Interested in digital forensics and data recovery
+* ⚡ I love learning by building real-world projects
 
 ---
 
-## 🧠 CORE STACK
+### 🛠️ Tech Stack
 
-```txt
-HTML • CSS • JavaScript
-Python • MySQL
-Linux • Cybersecurity (learning)
-```
-
----
-
-## 🚀 WHAT I DO
-
-* 🌐 Build web applications & real-world tools
-* 🔐 Explore cybersecurity & ethical hacking
-* 🎨 Design clean UI/graphics
-* 🧪 Learn digital forensics & data recovery
+* 🌐 Web Development: HTML, CSS, JavaScript
+* 🐍 Programming: Python
+* 🗄️ Databases: MySQL
+* 🐧 Linux & command-line tools
 
 ---
 
-## 🎯 FOCUS
+### 🚀 What I Do
 
-```diff
-+ Web Development
-+ Cybersecurity
-+ Problem Solving
-+ Creative Design
-```
-
----
-
-## 📡 CONNECT
-
-```bash
-GitHub: Cybex5
-Status: Always building... ⚡
-```
+* Build responsive and functional web applications
+* Create tools that solve real problems
+* Explore cybersecurity and ethical hacking concepts
+* Work on data recovery and forensic ideas
+* Design visual content and UI ideas
 
 ---
 
-<div align="center">
+### 🎯 Goals
 
-⚡ Build. Break. Learn. Improve.
+* Become a strong full-stack web developer
+* Grow in cybersecurity and penetration testing
+* Build impactful open-source projects
+* Improve digital forensics and system analysis skills
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cybex5&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
+---
 
-</div>
-```
+### 📫 Connect with me
+
+* GitHub: Cybex5
+* Always building, learning, and improving 💻🔐🎨
+
+---
+
+⚡ “Build. Break. Learn. Improve.”
